@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studying in **UTN**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **santipoido2005@gmail.com**
 
